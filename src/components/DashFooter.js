@@ -34,3 +34,4 @@ const DashFooter = () => {
 export default DashFooter
 
 console.log('not today aqui no dashfooter')
+console.log('triste')
