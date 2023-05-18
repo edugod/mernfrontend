@@ -34,4 +34,3 @@ function App() {
 }
 
 export default App;
-// https://youtu.be/CvCiNeLnZ00?t=9607

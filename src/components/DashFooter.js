@@ -32,8 +32,3 @@ const DashFooter = () => {
     return content
 }
 export default DashFooter
-
-console.log('not today aqui no dashfooter')
-console.log('triste')
-console.log('ola')
-console.log('pqp')
