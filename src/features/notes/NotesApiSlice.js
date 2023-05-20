@@ -59,3 +59,5 @@ export const {
 } = notesAdapter.getSelectors(state => selectNotesData(state) ?? initialState)
 
 //https://youtu.be/CvCiNeLnZ00?t=11314
+
+console.log('aham')
