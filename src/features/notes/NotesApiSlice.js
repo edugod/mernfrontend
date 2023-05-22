@@ -57,7 +57,3 @@ export const {
     selectIds: selectNoteIds
     // Pass in a selector that returns the notes slice of state
 } = notesAdapter.getSelectors(state => selectNotesData(state) ?? initialState)
-
-//https://youtu.be/CvCiNeLnZ00?t=11314
-
-console.log('aham')
