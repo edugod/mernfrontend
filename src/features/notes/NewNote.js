@@ -14,3 +14,4 @@ const NewNote = () => {
 export default NewNote
 
 //https://youtu.be/CvCiNeLnZ00?t=19122
+console.log('teste')
