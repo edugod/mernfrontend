@@ -17,3 +17,5 @@ export default NewNote
 console.log('teste')
 
 console.log('meudeus')
+asdakdka´dkad
+console.log('lalla')
