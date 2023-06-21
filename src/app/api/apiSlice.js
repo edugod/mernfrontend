@@ -57,3 +57,4 @@ export const apiSlice = createApi({
 })
 
 //https://youtu.be/CvCiNeLnZ00?t=20066
+console.log('testando')
