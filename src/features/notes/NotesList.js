@@ -61,4 +61,3 @@ const NotesList = () => {
 }
 export default NotesList
 
-//https://youtu.be/CvCiNeLnZ00?t=23142
