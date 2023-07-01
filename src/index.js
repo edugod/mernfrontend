@@ -19,5 +19,3 @@ root.render(
     </Provider>
   </React.StrictMode>
 );
-
-//https://youtu.be/CvCiNeLnZ00?t=14942

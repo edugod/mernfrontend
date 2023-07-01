@@ -14,8 +14,11 @@ import Prefetch from './features/auth/Prefetch'
 import PersistLogin from './features/auth/PersistLogin'
 import RequireAuth from './features/auth/RequireAuth'
 import { ROLES } from './config/roles'
+import useTitle from './hooks/useTitle';
 
 function App() {
+  useTitle('Dan D. Repairs')
+
   return (
     <Routes>
       <Route path="/" element={<Layout />}>
@@ -56,5 +59,3 @@ function App() {
 }
 
 export default App;
-
-//https://youtu.be/CvCiNeLnZ00?t=24241
