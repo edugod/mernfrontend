@@ -60,4 +60,3 @@ const NotesList = () => {
     return content
 }
 export default NotesList
-
