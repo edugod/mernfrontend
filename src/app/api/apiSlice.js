@@ -1,9 +1,6 @@
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react'
 import { setCredentials } from '../../features/auth/authSlice'
 
-// segundo o magrão o fetchbasequery seria a mesma coisa que utilizar AXIOS
-//LOGO, estou dizendo que é para fazer os direcionamentos.
-
 const baseQuery = fetchBaseQuery({
     baseUrl: 'http://localhost:3500',
     credentials: 'include',
@@ -55,4 +52,3 @@ export const apiSlice = createApi({
     tagTypes: ['Note', 'User'],
     endpoints: builder => ({})
 })
-
